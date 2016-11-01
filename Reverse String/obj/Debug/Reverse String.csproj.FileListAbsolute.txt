@@ -1,0 +1,6 @@
+D:\C&C++ samples\Reverse String\Reverse String\bin\Debug\Reverse String.exe.config
+D:\C&C++ samples\Reverse String\Reverse String\bin\Debug\Reverse String.exe
+D:\C&C++ samples\Reverse String\Reverse String\bin\Debug\Reverse String.pdb
+D:\C&C++ samples\Reverse String\Reverse String\obj\Debug\Reverse String.csprojResolveAssemblyReference.cache
+D:\C&C++ samples\Reverse String\Reverse String\obj\Debug\Reverse String.exe
+D:\C&C++ samples\Reverse String\Reverse String\obj\Debug\Reverse String.pdb
